@@ -2,11 +2,11 @@
 
 header{
     background-color: #ffcccc;
+    width: 1000px;
 }
 
 #wrapper{
     width: 1000px;
-    margin: 0 auto;
     display: flex;
 }
 
@@ -22,4 +22,5 @@ header{
 
 footer{
     background-color: #ffccff;
+    width: 1000px;
 }
